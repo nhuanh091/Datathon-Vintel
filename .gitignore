@@ -1,6 +1,8 @@
 
 *.csv
 
+#data
+
 #Sample submission
 !sample_submission.csv
 
@@ -12,5 +14,5 @@ __pycache__/
 # File hệ thống
 .DS_Store
 Thumbs.db
-data/
+
 
