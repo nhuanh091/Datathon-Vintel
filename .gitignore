@@ -1,1 +1,16 @@
+
 *.csv
+
+#Sample submission
+!sample_submission.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+data/
+
